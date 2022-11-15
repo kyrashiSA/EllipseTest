@@ -3,5 +3,7 @@ public class Main {
         System.out.println("hello");
 
         System.out.println("How are you doing on this fine Monday?");
+
+        System.out.println("It's a marvelous monday");
     }
 }
